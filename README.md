@@ -7,3 +7,5 @@ Add links to your favorite git tutorials or your repos here:
 
 
 I've added some text here.
+
+Stanley made a change.

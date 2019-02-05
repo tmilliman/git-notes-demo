@@ -5,5 +5,7 @@ Here are some notes on using git/github.  There are lots of resources out on the
 
 Add links to your favorite git tutorials or your repos here:
 
-Stanley made a change.
 
+I've added some text here.
+
+Stanley made a change.
